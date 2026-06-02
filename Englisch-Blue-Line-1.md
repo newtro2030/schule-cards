@@ -2,389 +2,389 @@
 
 ## Lernkarten #Englisch
 
-Q: hello
-A: hallo
+Q: hallo
+A: hello
 
-Q: goodbye / bye
-A: tschüss / auf Wiedersehen
+Q: tschüss / auf Wiedersehen
+A: goodbye / bye
 
-Q: good morning
-A: guten Morgen
+Q: guten Morgen
+A: good morning
 
-Q: good afternoon
-A: guten Nachmittag
+Q: guten Nachmittag
+A: good afternoon
 
-Q: good evening
-A: guten Abend
+Q: guten Abend
+A: good evening
 
-Q: good night
-A: gute Nacht
+Q: gute Nacht
+A: good night
 
-Q: What's your name?
-A: Wie heißt du?
+Q: Wie heißt du?
+A: What's your name?
 
-Q: My name is ...
-A: Ich heiße ...
+Q: Ich heiße ...
+A: My name is ...
 
-Q: How old are you?
-A: Wie alt bist du?
+Q: Wie alt bist du?
+A: How old are you?
 
-Q: I am ... years old.
-A: Ich bin ... Jahre alt.
+Q: Ich bin ... Jahre alt.
+A: I am ... years old.
 
-Q: Where are you from?
-A: Woher kommst du?
+Q: Woher kommst du?
+A: Where are you from?
 
-Q: I am from ...
-A: Ich komme aus ...
+Q: Ich komme aus ...
+A: I am from ...
 
-Q: How are you?
-A: Wie geht es dir?
+Q: Wie geht es dir?
+A: How are you?
 
-Q: Fine, thanks.
-A: Gut, danke.
+Q: Gut, danke.
+A: Fine, thanks.
 
-Q: please
-A: bitte
+Q: bitte
+A: please
 
-Q: thank you
-A: danke
+Q: danke
+A: thank you
 
-Q: yes
-A: ja
+Q: ja
+A: yes
 
-Q: no
-A: nein
+Q: nein
+A: no
 
-Q: sorry / excuse me
-A: Entschuldigung
+Q: Entschuldigung
+A: sorry / excuse me
 
-Q: the boy
-A: der Junge
+Q: der Junge
+A: the boy
 
-Q: the girl
-A: das Mädchen
+Q: das Mädchen
+A: the girl
 
-Q: the friend (m)
-A: der Freund
+Q: der Freund
+A: the friend (m)
 
-Q: the friend (f)
-A: die Freundin
+Q: die Freundin
+A: the friend (f)
 
-Q: the teacher (m)
-A: der Lehrer
+Q: der Lehrer
+A: the teacher (m)
 
-Q: the teacher (f)
-A: die Lehrerin
+Q: die Lehrerin
+A: the teacher (f)
 
-Q: the class
-A: die Klasse
+Q: die Klasse
+A: the class
 
-Q: the school
-A: die Schule
+Q: die Schule
+A: the school
 
-Q: the classroom
-A: das Klassenzimmer
+Q: das Klassenzimmer
+A: the classroom
 
-Q: the book
-A: das Buch
+Q: das Buch
+A: the book
 
-Q: the pen / pencil
-A: der Stift / Bleistift
+Q: der Stift / Bleistift
+A: the pen / pencil
 
-Q: the ruler
-A: das Lineal
+Q: das Lineal
+A: the ruler
 
-Q: the rubber / eraser
-A: der Radiergummi
+Q: der Radiergummi
+A: the rubber / eraser
 
-Q: the bag / schoolbag
-A: die Tasche / der Schulrucksack
+Q: die Tasche / der Schulrucksack
+A: the bag / schoolbag
 
-Q: the exercise book
-A: das Heft
+Q: das Heft
+A: the exercise book
 
-Q: Open your book!
-A: Öffne dein Buch!
+Q: Öffne dein Buch!
+A: Open your book!
 
-Q: Close your book!
-A: Schließe dein Buch!
+Q: Schließe dein Buch!
+A: Close your book!
 
-Q: Listen!
-A: Hör zu!
+Q: Hör zu!
+A: Listen!
 
-Q: Repeat!
-A: Wiederhole!
+Q: Wiederhole!
+A: Repeat!
 
-Q: the mother
-A: die Mutter
+Q: die Mutter
+A: the mother
 
-Q: the father
-A: der Vater
+Q: der Vater
+A: the father
 
-Q: the sister
-A: die Schwester
+Q: die Schwester
+A: the sister
 
-Q: the brother
-A: der Bruder
+Q: der Bruder
+A: the brother
 
-Q: the grandma / grandmother
-A: die Oma / Großmutter
+Q: die Oma / Großmutter
+A: the grandma / grandmother
 
-Q: the grandpa / grandfather
-A: der Opa / Großvater
+Q: der Opa / Großvater
+A: the grandpa / grandfather
 
-Q: the family
-A: die Familie
+Q: die Familie
+A: the family
 
-Q: the pet
-A: das Haustier
+Q: das Haustier
+A: the pet
 
-Q: the dog
-A: der Hund
+Q: der Hund
+A: the dog
 
-Q: the cat
-A: die Katze
+Q: die Katze
+A: the cat
 
-Q: the rabbit
-A: das Kaninchen
+Q: das Kaninchen
+A: the rabbit
 
-Q: the horse
-A: das Pferd
+Q: das Pferd
+A: the horse
 
-Q: the fish
-A: der Fisch
+Q: der Fisch
+A: the fish
 
-Q: old
-A: alt
+Q: alt
+A: old
 
-Q: young
-A: jung
+Q: jung
+A: young
 
-Q: tall
-A: groß
+Q: groß
+A: tall
 
-Q: small / short
-A: klein
+Q: klein
+A: small / short
 
-Q: nice / friendly
-A: nett / freundlich
+Q: nett / freundlich
+A: nice / friendly
 
-Q: funny
-A: lustig / witzig
+Q: lustig / witzig
+A: funny
 
-Q: English
-A: Englisch
+Q: Englisch
+A: English
 
-Q: Maths
-A: Mathematik / Mathe
+Q: Mathematik / Mathe
+A: Maths
 
-Q: German
-A: Deutsch
+Q: Deutsch
+A: German
 
-Q: Art
-A: Kunst
+Q: Kunst
+A: Art
 
-Q: Music
-A: Musik
+Q: Musik
+A: Music
 
-Q: Sport / PE
-A: Sport
+Q: Sport
+A: Sport / PE
 
-Q: Biology
-A: Biologie
+Q: Biologie
+A: Biology
 
-Q: Geography
-A: Erdkunde / Geografie
+Q: Erdkunde / Geografie
+A: Geography
 
-Q: History
-A: Geschichte
+Q: Geschichte
+A: History
 
-Q: the subject
-A: das Schulfach
+Q: das Schulfach
+A: the subject
 
-Q: My favourite subject is ...
-A: Mein Lieblingsfach ist ...
+Q: Mein Lieblingsfach ist ...
+A: My favourite subject is ...
 
-Q: I like ...
-A: Ich mag ... / Ich habe ... gern.
+Q: Ich mag ... / Ich habe ... gern.
+A: I like ...
 
-Q: I don't like ...
-A: Ich mag ... nicht.
+Q: Ich mag ... nicht.
+A: I don't like ...
 
-Q: football / soccer
-A: Fußball
+Q: Fußball
+A: football / soccer
 
-Q: basketball
-A: Basketball
+Q: Basketball
+A: basketball
 
-Q: tennis
-A: Tennis
+Q: Tennis
+A: tennis
 
-Q: swimming
-A: Schwimmen
+Q: Schwimmen
+A: swimming
 
-Q: cycling
-A: Radfahren
+Q: Radfahren
+A: cycling
 
-Q: reading
-A: Lesen
+Q: Lesen
+A: reading
 
-Q: listening to music
-A: Musik hören
+Q: Musik hören
+A: listening to music
 
-Q: watching TV
-A: fernsehen
+Q: fernsehen
+A: watching TV
 
-Q: playing computer games
-A: Computerspiele spielen
+Q: Computerspiele spielen
+A: playing computer games
 
-Q: the hobby
-A: das Hobby
+Q: das Hobby
+A: the hobby
 
-Q: I can ...
-A: Ich kann ...
+Q: Ich kann ...
+A: I can ...
 
-Q: I can't ...
-A: Ich kann ... nicht.
+Q: Ich kann ... nicht.
+A: I can't ...
 
-Q: Can you ...?
-A: Kannst du ...?
+Q: Kannst du ...?
+A: Can you ...?
 
-Q: to play
-A: spielen
+Q: spielen
+A: to play
 
-Q: to swim
-A: schwimmen
+Q: schwimmen
+A: to swim
 
-Q: to run
-A: laufen / rennen
+Q: laufen / rennen
+A: to run
 
-Q: to read
-A: lesen
+Q: lesen
+A: to read
 
-Q: to write
-A: schreiben
+Q: schreiben
+A: to write
 
-Q: to speak
-A: sprechen
+Q: sprechen
+A: to speak
 
-Q: breakfast
-A: das Frühstück
+Q: das Frühstück
+A: breakfast
 
-Q: lunch
-A: das Mittagessen
+Q: das Mittagessen
+A: lunch
 
-Q: dinner / supper
-A: das Abendessen
+Q: das Abendessen
+A: dinner / supper
 
-Q: bread
-A: das Brot
+Q: das Brot
+A: bread
 
-Q: butter
-A: die Butter
+Q: die Butter
+A: butter
 
-Q: milk
-A: die Milch
+Q: die Milch
+A: milk
 
-Q: juice
-A: der Saft
+Q: der Saft
+A: juice
 
-Q: water
-A: das Wasser
+Q: das Wasser
+A: water
 
-Q: the apple
-A: der Apfel
+Q: der Apfel
+A: the apple
 
-Q: the banana
-A: die Banane
+Q: die Banane
+A: the banana
 
-Q: the orange
-A: die Orange
+Q: die Orange
+A: the orange
 
-Q: the sandwich
-A: das Sandwich / belegte Brot
+Q: das Sandwich / belegte Brot
+A: the sandwich
 
-Q: the hamburger
-A: der Hamburger
+Q: der Hamburger
+A: the hamburger
 
-Q: the pizza
-A: die Pizza
+Q: die Pizza
+A: the pizza
 
-Q: chips / crisps
-A: Chips
+Q: Chips
+A: chips / crisps
 
-Q: chocolate
-A: Schokolade
+Q: Schokolade
+A: chocolate
 
-Q: I am hungry.
-A: Ich habe Hunger.
+Q: Ich habe Hunger.
+A: I am hungry.
 
-Q: I am thirsty.
-A: Ich habe Durst.
+Q: Ich habe Durst.
+A: I am thirsty.
 
-Q: the house
-A: das Haus
+Q: das Haus
+A: the house
 
-Q: the flat / apartment
-A: die Wohnung
+Q: die Wohnung
+A: the flat / apartment
 
-Q: the room
-A: das Zimmer
+Q: das Zimmer
+A: the room
 
-Q: the bedroom
-A: das Schlafzimmer
+Q: das Schlafzimmer
+A: the bedroom
 
-Q: the living room
-A: das Wohnzimmer
+Q: das Wohnzimmer
+A: the living room
 
-Q: the kitchen
-A: die Küche
+Q: die Küche
+A: the kitchen
 
-Q: the bathroom
-A: das Badezimmer
+Q: das Badezimmer
+A: the bathroom
 
-Q: the garden
-A: der Garten
+Q: der Garten
+A: the garden
 
-Q: upstairs
-A: oben / nach oben
+Q: oben / nach oben
+A: upstairs
 
-Q: downstairs
-A: unten / nach unten
+Q: unten / nach unten
+A: downstairs
 
-Q: the street
-A: die Straße
+Q: die Straße
+A: the street
 
-Q: the park
-A: der Park
+Q: der Park
+A: the park
 
-Q: the shop / store
-A: der Laden / das Geschäft
+Q: der Laden / das Geschäft
+A: the shop / store
 
-Q: the supermarket
-A: der Supermarkt
+Q: der Supermarkt
+A: the supermarket
 
-Q: the cinema
-A: das Kino
+Q: das Kino
+A: the cinema
 
-Q: the sports centre
-A: das Sportzentrum
+Q: das Sportzentrum
+A: the sports centre
 
-Q: next to
-A: neben
+Q: neben
+A: next to
 
-Q: in front of
-A: vor
+Q: vor
+A: in front of
 
-Q: behind
-A: hinter
+Q: hinter
+A: behind
 
-Q: on the left
-A: links / auf der linken Seite
+Q: links / auf der linken Seite
+A: on the left
 
-Q: on the right
-A: rechts / auf der rechten Seite
+Q: rechts / auf der rechten Seite
+A: on the right
 
-Q: straight on
-A: geradeaus
+Q: geradeaus
+A: straight on
