@@ -1,6 +1,6 @@
 # Wirbeltierklassen – MNT Klasse 5
 
-## Lernkarten #MNT
+## Lernkarten #MNT/Wirbeltiere
 
 Q: Welche Kennzeichen haben Säugetiere?
 A: Fell / Haare, säugen ihre Jungen mit Muttermilch, gebären lebende Junge (Lebendgeburt), atmen mit Lungen, haben ein gut entwickeltes Gehirn

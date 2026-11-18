@@ -2,7 +2,7 @@
 
 Hier kommen Lernkarten rein.
 
-## Lernkarten #Mathe
+## Lernkarten #Mathe/Beispiele
 
 Q: Was ist 7 × 8?
 A: 56
