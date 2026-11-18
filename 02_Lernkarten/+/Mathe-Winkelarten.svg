@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 440" width="660" height="440" font-family="Helvetica, Arial, sans-serif">
+  <rect width="660" height="440" rx="18" fill="#12121f"/>
+  <text x="330" y="36" text-anchor="middle" font-size="22" font-weight="700" fill="#f1f5f9">Winkelarten</text>
+  <g stroke="#f1f5f9" stroke-width="3" fill="none" stroke-linecap="round">
+    <line x1="50" y1="180" x2="190" y2="180"/><line x1="50" y1="180" x2="149" y2="81"/>
+    <line x1="270" y1="180" x2="400" y2="180"/><line x1="270" y1="180" x2="270" y2="60"/>
+    <line x1="520" y1="180" x2="630" y2="180"/><line x1="520" y1="180" x2="435" y2="95"/>
+    <line x1="30" y1="350" x2="210" y2="350"/>
+    <line x1="330" y1="350" x2="430" y2="350"/><line x1="330" y1="350" x2="380" y2="263"/>
+    <line x1="540" y1="350" x2="630" y2="350"/>
+  </g>
+  <g fill="none" stroke-width="3">
+    <path d="M 95 180 A 45 45 0 0 0 82 148" stroke="#06b6d4"/>
+    <rect x="270" y="160" width="20" height="20" stroke="#10b981"/>
+    <path d="M 565 180 A 45 45 0 0 0 488 148" stroke="#f59e0b"/>
+    <path d="M 160 350 A 40 40 0 0 0 80 350" stroke="#a78bfa"/>
+    <path d="M 370 350 A 40 40 0 1 1 350 315" stroke="#f472b6"/>
+    <circle cx="540" cy="350" r="36" stroke="#ef4444"/>
+  </g>
+  <g fill="#f1f5f9"><circle cx="50" cy="180" r="4"/><circle cx="270" cy="180" r="4"/><circle cx="520" cy="180" r="4"/><circle cx="120" cy="350" r="4"/><circle cx="330" cy="350" r="4"/><circle cx="540" cy="350" r="4"/></g>
+  <g font-size="17" font-weight="700" text-anchor="middle">
+    <text x="115" y="212" fill="#06b6d4">spitz</text>
+    <text x="335" y="212" fill="#10b981">rechter Winkel</text>
+    <text x="540" y="212" fill="#f59e0b">stumpf</text>
+    <text x="120" y="400" fill="#a78bfa">gestreckt</text>
+    <text x="350" y="400" fill="#f472b6">überstumpf</text>
+    <text x="560" y="410" fill="#ef4444">Vollwinkel</text>
+  </g>
+  <g font-size="14" fill="#94a3b8" text-anchor="middle">
+    <text x="115" y="232">kleiner als 90°</text>
+    <text x="335" y="232">genau 90°</text>
+    <text x="540" y="232">zwischen 90° und 180°</text>
+    <text x="120" y="420">genau 180°</text>
+    <text x="350" y="420">zwischen 180° und 360°</text>
+    <text x="560" y="430">genau 360°</text>
+  </g>
+</svg>

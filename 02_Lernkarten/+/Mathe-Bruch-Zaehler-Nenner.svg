@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360" font-family="Helvetica, Arial, sans-serif">
+  <rect width="640" height="360" rx="18" fill="#12121f"/>
+  <text x="320" y="38" text-anchor="middle" font-size="22" font-weight="700" fill="#f1f5f9">Was bedeutet der Bruch ¾?</text>
+  <g stroke="#f1f5f9" stroke-width="3">
+    <rect x="40" y="80" width="90" height="120" fill="#7c3aed"/>
+    <rect x="130" y="80" width="90" height="120" fill="#7c3aed"/>
+    <rect x="220" y="80" width="90" height="120" fill="#7c3aed"/>
+    <rect x="310" y="80" width="90" height="120" fill="#1f2937"/>
+  </g>
+  <text x="220" y="232" text-anchor="middle" font-size="15" fill="#94a3b8">1 Ganzes, in 4 gleich große Teile geteilt – 3 Teile sind gefärbt</text>
+  <text x="490" y="128" text-anchor="middle" font-size="58" font-weight="700" fill="#a78bfa">3</text>
+  <line x1="455" y1="146" x2="525" y2="146" stroke="#f1f5f9" stroke-width="5"/>
+  <text x="490" y="205" text-anchor="middle" font-size="58" font-weight="700" fill="#06b6d4">4</text>
+  <text x="540" y="112" font-size="17" font-weight="700" fill="#a78bfa">Zähler</text>
+  <text x="540" y="152" font-size="15" fill="#e2e8f0">Bruchstrich</text>
+  <text x="540" y="192" font-size="17" font-weight="700" fill="#06b6d4">Nenner</text>
+  <text x="40" y="282" font-size="17" fill="#a78bfa" font-weight="700">Zähler (oben):</text>
+  <text x="175" y="282" font-size="17" fill="#e2e8f0">zählt, wie viele Teile genommen werden</text>
+  <text x="40" y="314" font-size="17" fill="#06b6d4" font-weight="700">Nenner (unten):</text>
+  <text x="175" y="314" font-size="17" fill="#e2e8f0">nennt, in wie viele gleiche Teile geteilt wird</text>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 420" width="660" height="420" font-family="Helvetica, Arial, sans-serif">
+  <rect width="660" height="420" rx="18" fill="#12121f"/>
+  <text x="330" y="36" text-anchor="middle" font-size="22" font-weight="700" fill="#f1f5f9">Winkel an sich schneidenden Geraden</text>
+  <g stroke="#f1f5f9" stroke-width="3"><line x1="30" y1="230" x2="300" y2="230"/><line x1="90" y1="350" x2="240" y2="110"/></g>
+  <path d="M 205 230 A 40 40 0 0 0 186 196" fill="none" stroke="#06b6d4" stroke-width="4"/>
+  <path d="M 125 230 A 40 40 0 0 0 144 264" fill="none" stroke="#06b6d4" stroke-width="4"/>
+  <path d="M 186 196 A 40 40 0 0 0 125 230" fill="none" stroke="#f59e0b" stroke-width="4"/>
+  <text x="212" y="214" font-size="18" font-weight="700" fill="#06b6d4">α</text>
+  <text x="104" y="262" font-size="18" font-weight="700" fill="#06b6d4">γ</text>
+  <text x="126" y="196" font-size="18" font-weight="700" fill="#f59e0b">β</text>
+  <text x="165" y="80" text-anchor="middle" font-size="17" font-weight="700" fill="#f1f5f9">Scheitel- und Nebenwinkel</text>
+  <text x="40" y="384" font-size="15" fill="#06b6d4">α und γ: Scheitelwinkel → gleich groß</text>
+  <text x="40" y="406" font-size="15" fill="#f59e0b">α und β: Nebenwinkel → zusammen 180°</text>
+  <g stroke="#f1f5f9" stroke-width="3"><line x1="360" y1="170" x2="640" y2="170"/><line x1="360" y1="290" x2="640" y2="290"/><line x1="430" y1="350" x2="580" y2="110"/></g>
+  <path d="M 582 170 A 40 40 0 0 0 563 136" fill="none" stroke="#a78bfa" stroke-width="4"/>
+  <path d="M 507 290 A 40 40 0 0 0 488 256" fill="none" stroke="#a78bfa" stroke-width="4"/>
+  <path d="M 503 170 A 40 40 0 0 0 522 204" fill="none" stroke="#10b981" stroke-width="4"/>
+  <text x="590" y="152" font-size="18" font-weight="700" fill="#a78bfa">α</text>
+  <text x="514" y="272" font-size="18" font-weight="700" fill="#a78bfa">α'</text>
+  <text x="490" y="206" font-size="18" font-weight="700" fill="#10b981">γ</text>
+  <text x="500" y="80" text-anchor="middle" font-size="17" font-weight="700" fill="#f1f5f9">Stufen- und Wechselwinkel</text>
+  <text x="372" y="160" font-size="13" fill="#94a3b8">g</text><text x="372" y="280" font-size="13" fill="#94a3b8">h</text><text x="640" y="330" text-anchor="end" font-size="13" fill="#94a3b8">g und h sind parallel</text>
+  <text x="360" y="384" font-size="15" fill="#a78bfa">α und α': Stufenwinkel → gleich groß</text>
+  <text x="360" y="406" font-size="15" fill="#10b981">γ und α': Wechselwinkel → gleich groß</text>
+</svg>
