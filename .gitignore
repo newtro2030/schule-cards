@@ -1,0 +1,10 @@
+# Alles im Hauptverzeichnis ignorieren (Unterlagen, Obsidian-Einstellungen, Startseite) –
+# das Repo schule-cards ist öffentlich!
+/*
+
+# Nur die Lernkarten für die StudyCards-App veröffentlichen
+!/02_Lernkarten/
+!/.gitignore
+
+# macOS
+.DS_Store
