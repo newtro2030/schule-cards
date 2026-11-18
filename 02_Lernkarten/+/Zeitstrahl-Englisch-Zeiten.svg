@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" width="640" height="420" font-family="Helvetica, Arial, sans-serif">
+  <rect width="640" height="420" rx="18" fill="#12121f"/>
+  <text x="320" y="38" text-anchor="middle" font-size="22" font-weight="700" fill="#f1f5f9">Wann benutze ich welche Zeit?</text>
+
+  <!-- Zeitstrahl -->
+  <line x1="30" y1="360" x2="595" y2="360" stroke="#94a3b8" stroke-width="3"/>
+  <polygon points="608,360 592,352 592,368" fill="#94a3b8"/>
+  <line x1="445" y1="70" x2="445" y2="372" stroke="#f59e0b" stroke-width="3" stroke-dasharray="7 6"/>
+  <text x="445" y="395" text-anchor="middle" font-size="17" font-weight="700" fill="#f59e0b">NOW / jetzt</text>
+  <text x="130" y="395" text-anchor="middle" font-size="16" fill="#94a3b8">past / Vergangenheit</text>
+
+  <!-- Simple Past: ein Punkt in der Vergangenheit -->
+  <circle cx="60" cy="102" r="12" fill="#06b6d4"/>
+  <text x="84" y="96" font-size="19" font-weight="700" fill="#06b6d4">Simple Past</text>
+  <text x="84" y="118" font-size="15" fill="#e2e8f0">fertig, Zeitpunkt bekannt</text>
+  <text x="84" y="138" font-size="14" font-style="italic" fill="#94a3b8">yesterday · last week · ago · in 2020</text>
+
+  <!-- Present Perfect: Bogen von Vergangenheit bis jetzt -->
+  <text x="60" y="186" font-size="19" font-weight="700" fill="#a78bfa">Present Perfect</text>
+  <path d="M 60 250 Q 245 175 430 250" fill="none" stroke="#a78bfa" stroke-width="4"/>
+  <polygon points="436,254 419,252 427,238" fill="#a78bfa"/>
+  <circle cx="60" cy="250" r="9" fill="#a78bfa"/>
+  <text x="60" y="282" font-size="15" fill="#e2e8f0">passiert – Zeitpunkt egal, Ergebnis zählt jetzt</text>
+  <text x="60" y="302" font-size="14" font-style="italic" fill="#94a3b8">already · ever · never · just · yet · so far</text>
+
+  <!-- Simple Present: immer wieder -->
+  <circle cx="375" cy="335" r="7" fill="#10b981"/>
+  <circle cx="410" cy="335" r="7" fill="#10b981"/>
+  <circle cx="480" cy="335" r="7" fill="#10b981"/>
+  <circle cx="515" cy="335" r="7" fill="#10b981"/>
+  <circle cx="550" cy="335" r="7" fill="#10b981"/>
+  <text x="462" y="96" font-size="19" font-weight="700" fill="#10b981">Simple Present</text>
+  <text x="462" y="118" font-size="15" fill="#e2e8f0">immer wieder,</text>
+  <text x="462" y="136" font-size="15" fill="#e2e8f0">Gewohnheit, Fakt</text>
+  <text x="462" y="158" font-size="14" font-style="italic" fill="#94a3b8">always · often</text>
+  <text x="462" y="176" font-size="14" font-style="italic" fill="#94a3b8">every day</text>
+</svg>
